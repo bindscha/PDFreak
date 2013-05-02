@@ -1,0 +1,68 @@
+This product includes Bootstrap written by Mark Otto and Jacob Thornton
+and distributed under an Apache license.
+See https://raw.github.com/twitter/bootstrap
+
+	Copyright 2012 Twitter, Inc.
+	
+	Licensed under the Apache License, Version 2.0 (the "License");
+	you may not use this file except in compliance with the License.
+	You may obtain a copy of the License at
+	
+	http://www.apache.org/licenses/LICENSE-2.0
+	
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+	
+
+This product includes Play! Framework and Scala owned by Typesafe, Inc.
+and distributed under an Apache license.
+See https://github.com/playframework/Play20
+
+	Copyright 2012 Typesafe (http://www.typesafe.com).
+	
+	Licensed under the Apache License, Version 2.0 (the "License"); you may 
+	not use this project except in compliance with the License. You may obtain 
+	a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+	
+	Unless required by applicable law or agreed to in writing, software 
+	distributed under the License is distributed on an "AS IS" BASIS, WITHOUT 
+	WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the 
+	License for the specific language governing permissions and limitations 
+	under the License.
+	
+	
+All other components of this product are
+Copyright (c) 2013 Laurent Bindschaedler - All rights reserved.
+
+Certain inventions disclosed in this file may be claimed within
+patents owned or patent applications filed by Laurent Bindschaedler or 
+third parties.
+
+Subject to the terms of this notice, Laurent Bindschaedler does not grant
+you or anyone else permission to use, reproduce, modify, distribute, or 
+otherwise exploit these files, except as may be set forth in a separate 
+written license agreement between you and Laurent Bindschaedler. 
+The terms of any such license agreement will control over this
+notice. The license stated above will be automatically terminated and
+revoked if you exceed its scope or violate any of the terms of this
+notice.
+
+This License does not grant permission to use the trade names,
+trademarks, service marks, or product names of Laurent Bindschaedler, 
+except as required for reasonable and customary use in describing the 
+origin of this file and reproducing the content of this notice. You 
+may not mark or brand this file with any trade name, trademarks, 
+service marks, or product names other than the original brand (if any)
+provided by Laurent Bindschaedler.
+
+Unless otherwise expressly agreed by Laurent Bindschaedler in a separate 
+written license agreement, these files are provided AS IS, WITHOUT WARRANTY 
+OF ANY KIND, including without any implied warranties of MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, or NON-INFRINGEMENT. As a
+condition to your use of these files, you are solely responsible for
+such use. Laurent Bindschaedler will have no liability to you for direct,
+indirect, consequential, incidental, special, or punitive damages or
+for lost profits or data.

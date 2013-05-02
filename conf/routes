@@ -1,0 +1,20 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET      /                                      controllers.Application.index
+
+GET      /api/v1/templates                      controllers.Apiv1.templates
+GET      /api/v1/templates/:id                  controllers.Apiv1.template(id: String)
+POST     /api/v1/templates/:id                  controllers.Apiv1.uploadTemplate(id: String, date: Option[Long], description: Option[String], version: Option[String])
+
+GET      /api/v1/reports                        controllers.Apiv1.reports
+GET      /api/v1/reports/:tId                   controllers.Apiv1.report(tId: Long)
+POST     /api/v1/reports/$tId<\w+>.$ext<\w+>    controllers.Apiv1.generateReport(tId: String, ext: String, date: Option[Long], inline: Option[String])
+OPTIONS  /api/v1/reports/$tId<\w+>.$ext<\w+>    controllers.Apiv1.generateReportPreflight(tId: String, ext: String, date: Option[Long], inline: Option[String])
+
+POST     /api/v1/resize/:id                     controllers.Apiv1.resizeDocument(id: String, size: Option[String], scale: Option[Float])
+
+# Map static resources from the /public folder to the /assets URL path
+GET      /assets/*file                          controllers.Assets.at(path="/public", file)
